@@ -1,0 +1,32 @@
+[
+  {
+    "PROD": "Vinhoes",
+    "GRAPH": "DELUXE",
+    "QBO": "30",
+    "QOH": "15",
+    "COST": "89.00",
+    "MSRP": "169.00",
+    "DESC": "Board game for 1-4 players where players grow and sell wine",
+    "BRAND": "Eagle-Gryphon"
+  },
+  {
+    "PROD": "Uno",
+    "GRAPH": "Original",
+    "QBO": "10",
+    "QOH": "100",
+    "COST": "4.99",
+    "MSRP": "13.99",
+    "DESC": "Card game for 1-4 players where players play different cards in order to discard their hand",
+    "BRAND": "Mattel"
+  },
+  {
+    "PROD": "Operation",
+    "GRAPH": "Original",
+    "QBO": "15",
+    "QOH": "30",
+    "COST": "7.99",
+    "MSRP": "24.99",
+    "DESC": "Board game for 1-4 players where players attempt to remove ailments from a patient for points",
+    "BRAND": "Hasbro"
+  }
+]
