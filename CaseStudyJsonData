@@ -28,5 +28,125 @@
     "MSRP": "24.99",
     "DESC": "Board game for 1-4 players where players attempt to remove ailments from a patient for points",
     "BRAND": "Hasbro"
+  },
+  {
+    "PROD": "Mouse Trap",
+    "GRAPH": "Original",
+    "QBO": "22",
+    "QOH": "17",
+    "COST": "8.99",
+    "MSRP": "27.99",
+    "DESC": "Board game for 1-4 players where players attempt to create elaborate mouse traps to capture mice",
+    "BRAND": "Hasbro"
+  },
+  {
+    "PROD": "Guess Who",
+    "GRAPH": "Original",
+    "QBO": "4",
+    "QOH": "42",
+    "COST": "4.99",
+    "MSRP": "27.99",
+    "DESC": "Board game for 2 players where players alternate asking questions regarding people on board to determine who is selected",
+    "BRAND": "Hasbro"
+  },
+  {
+    "PROD": "Don't Wake Daddy",
+    "GRAPH": "Original",
+    "QBO": "3",
+    "QOH": "7",
+    "COST": "12.99",
+    "MSRP": "21.99",
+    "DESC": "Board game for 1-4 players where players attempt to remain silent while traversing the board",
+    "BRAND": "Hasbro"
+  },
+  {
+    "PROD": "Risk",
+    "GRAPH": "Original",
+    "QBO": "8",
+    "QOH": "12",
+    "COST": "9.99",
+    "MSRP": "29.99",
+    "DESC": "Board game for 1-4 players where players attempt to take over the world",
+    "BRAND": "Hasbro"
+  },
+  {
+    "PROD": "Scene It?",
+    "GRAPH": "Original",
+    "QBO": "2",
+    "QOH": "22",
+    "COST": "7.99",
+    "MSRP": "21.99",
+    "DESC": "Board game for 1-4 players where players utilize tv trivia to guess specific ",
+    "BRAND": "Mattel"
+  },
+  {
+    "PROD": "Pictionary",
+    "GRAPH": "Original",
+    "QBO": "5",
+    "QOH": "12",
+    "COST": "9.99",
+    "MSRP": "24.99",
+    "DESC": "Board game for 1-4 players where players team to guess what their partner has drawn",
+    "BRAND": "Mattel"
+  },
+  {
+    "PROD": "Blokus",
+    "GRAPH": "Original",
+    "QBO": "6",
+    "QOH": "7",
+    "COST": "7.99",
+    "MSRP": "17.99",
+    "DESC": "Board game for 1-4 players where players place tiles in attempt to occupy the majority of the board",
+    "BRAND": "Mattel"
+  },
+  {
+    "PROD": "Whac-a-mole",
+    "GRAPH": "Original",
+    "QBO": "1",
+    "QOH": "3",
+    "COST": "19.99",
+    "MSRP": "49.99",
+    "DESC": "Carnival game for 1 player where player attempts to knock down moles as they pop up for points",
+    "BRAND": "Mattel"
+  },
+  {
+    "PROD": "Lisboa",
+    "GRAPH": "DELUXE",
+    "QBO": "49",
+    "QOH": "2",
+    "COST": "69.00",
+    "MSRP": "139.00",
+    "DESC": "Board game for 1-4 players where players attempt to rebuild the city after an earthquake",
+    "BRAND": "Eagle-Gryphon"
+  },
+  {
+    "PROD": "Kanban EV",
+    "GRAPH": "DELUXE",
+    "QBO": "72",
+    "QOH": "3",
+    "COST": "69.00",
+    "MSRP": "134.00",
+    "DESC": "Board game for 1-4 players where players attempt to build electric vehicles",
+    "BRAND": "Eagle-Gryphon"
+  },
+  {
+    "PROD": "The Gallerist",
+    "GRAPH": "DELUXE",
+    "QBO": "17",
+    "QOH": "9",
+    "COST": "59.00",
+    "MSRP": "119.00",
+    "DESC": "Board game for 1-4 players where players design paintings and sell them for points",
+    "BRAND": "Eagle-Gryphon"
+  },
+  {
+    "PROD": "Escape Plan",
+    "GRAPH": "ORIGINAL",
+    "QBO": "33",
+    "QOH": "13",
+    "COST": "34.00",
+    "MSRP": "99.00",
+    "DESC": "Board game for 1-4 players where players attempt to escape the city with as much money as possible",
+    "BRAND": "Eagle-Gryphon"
   }
 ]
