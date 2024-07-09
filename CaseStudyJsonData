@@ -1,7 +1,7 @@
 [
   {
-    "PROD": "Vinhoes",
-    "GRAPH": "DELUXE",
+    "PROD": "Vinhos",
+    "GRAPH": "Vinhos",
     "QBO": "30",
     "QOH": "15",
     "COST": "89.00",
@@ -11,7 +11,7 @@
   },
   {
     "PROD": "Uno",
-    "GRAPH": "Original",
+    "GRAPH": "Uno",
     "QBO": "10",
     "QOH": "100",
     "COST": "4.99",
@@ -21,7 +21,7 @@
   },
   {
     "PROD": "Operation",
-    "GRAPH": "Original",
+    "GRAPH": "Operation",
     "QBO": "15",
     "QOH": "30",
     "COST": "7.99",
@@ -31,7 +31,7 @@
   },
   {
     "PROD": "Mouse Trap",
-    "GRAPH": "Original",
+    "GRAPH": "Mouse Trap",
     "QBO": "22",
     "QOH": "17",
     "COST": "8.99",
@@ -41,7 +41,7 @@
   },
   {
     "PROD": "Guess Who",
-    "GRAPH": "Original",
+    "GRAPH": "Guess Who",
     "QBO": "4",
     "QOH": "42",
     "COST": "4.99",
@@ -51,7 +51,7 @@
   },
   {
     "PROD": "Don't Wake Daddy",
-    "GRAPH": "Original",
+    "GRAPH": "Don't Wake Daddy",
     "QBO": "3",
     "QOH": "7",
     "COST": "12.99",
@@ -61,7 +61,7 @@
   },
   {
     "PROD": "Risk",
-    "GRAPH": "Original",
+    "GRAPH": "Risk",
     "QBO": "8",
     "QOH": "12",
     "COST": "9.99",
@@ -71,7 +71,7 @@
   },
   {
     "PROD": "Scene It?",
-    "GRAPH": "Original",
+    "GRAPH": "Scene It",
     "QBO": "2",
     "QOH": "22",
     "COST": "7.99",
@@ -81,7 +81,7 @@
   },
   {
     "PROD": "Pictionary",
-    "GRAPH": "Original",
+    "GRAPH": "Pictionary",
     "QBO": "5",
     "QOH": "12",
     "COST": "9.99",
@@ -91,7 +91,7 @@
   },
   {
     "PROD": "Blokus",
-    "GRAPH": "Original",
+    "GRAPH": "Blokus",
     "QBO": "6",
     "QOH": "7",
     "COST": "7.99",
@@ -101,7 +101,7 @@
   },
   {
     "PROD": "Whac-a-mole",
-    "GRAPH": "Original",
+    "GRAPH": "Whac-a-mole",
     "QBO": "1",
     "QOH": "3",
     "COST": "19.99",
@@ -111,7 +111,7 @@
   },
   {
     "PROD": "Lisboa",
-    "GRAPH": "DELUXE",
+    "GRAPH": "Lisboa",
     "QBO": "49",
     "QOH": "2",
     "COST": "69.00",
@@ -121,7 +121,7 @@
   },
   {
     "PROD": "Kanban EV",
-    "GRAPH": "DELUXE",
+    "GRAPH": "Kanban EV",
     "QBO": "72",
     "QOH": "3",
     "COST": "69.00",
@@ -131,7 +131,7 @@
   },
   {
     "PROD": "The Gallerist",
-    "GRAPH": "DELUXE",
+    "GRAPH": "The Gallerist",
     "QBO": "17",
     "QOH": "9",
     "COST": "59.00",
@@ -141,7 +141,7 @@
   },
   {
     "PROD": "Escape Plan",
-    "GRAPH": "ORIGINAL",
+    "GRAPH": "Escape Plan",
     "QBO": "33",
     "QOH": "13",
     "COST": "34.00",
